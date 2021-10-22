@@ -1,1 +1,3 @@
 some text
+
+some new string from another person

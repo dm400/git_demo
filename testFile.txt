@@ -3,4 +3,3 @@ some text
 some new string from another person
 
 new row of text
-i want to revert it
